@@ -13,9 +13,9 @@ Description of Platform:
 Variables used in Data Analysis:
 
 - radius from person
-- # days it has been since the person has had it
+- Number days it has been since the person has had it
 - severity of the disease (high medium or low when user fills it out)
-- #hospitalizations
+- Number hospitalizations
 - each disease has an r value --> the rate at which it spreads (with preloaded data)
 
 Technologies used:
